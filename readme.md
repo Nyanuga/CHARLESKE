@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://buymeacoffee.com/charlesodhu" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default.-redpng" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default.-png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/charleske?tab=followers"><img title="1kFollowers" src="https://img.shields.io/github/followers/charleske?label=Followers&style=social"></a>
+  <a href="https://github.com/charleske1?tab=followers"><img title="1kFollowers" src="https://img.shields.io/github/followers/charleske?label=Followers&style=social"></a>
   <a href="https://github.com/charleske/BMW-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/charleske/BMW-MD?&style=social"></a>
   <a href="https://github.com/charleske/BMW-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/charleske/BMW-MD?style=social"></a>
   <a href="https://github.com/charleske/BMW-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/charleske/BMW-MD?label=Watching&style=social"></a>
@@ -49,13 +49,13 @@
   
 ### 🔹 DEPLOY ON OTHER PLATFORMS
 - **Render:**  
-  [![Click Here](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://render.com)
+  [![Click Here](https://img.shields.io/badge/➤Click-Here-black.svg)](https://render.com)
 
 - **ToyStack:**  
-  [![Click Here](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://toystack.ai)
+  [![Click Here](https://img.shields.io/badge/➤Click-Here-white.svg)](https://toystack.ai)
 
 - **Koyeb:**  
-  [![Click Here](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://koyeb.com)
+  [![Click Here](https://img.shields.io/badge/➤Click-Here-green.svg)](https://koyeb.com)
 
 ---**PANEL:**
 [Click here](https://host.talkdrove.com/auth/signup?ref=7D90F312)
