@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://charle-ke.onrender.com">
-    <img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-red?style=for-the-badge&logo=bmw" width="220" height="38.45"/>
+    <img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-rainbow?style=for-the-badge&logo=bmw" width="220" height="38.45"/>
   </a>
 </p>
 
