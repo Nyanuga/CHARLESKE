@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://buymeacoffee.com/charlesodhu" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default.yellowpng" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default.yellow_png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
   </a>
 </p>
 
@@ -58,7 +58,7 @@
   [![Click Here](https://img.shields.io/badge/➤Click-Here-green.svg)](https://koyeb.com)
 
 - **PANEL:**
-[Click here](https://img.io/badge/>https://host.talkdrove.com/auth/signup?ref=7D90F312)
+[Click here](https://img.io/badge/>Click-Here-pink.svg)](https://host.talkdrove.com/auth/signup?ref=7D90F312)
 ## ⚡ CHARLESKE BOT INFO  
 🚗 **High Performance** - Optimized for speed and efficiency  
 🛡️ **Secure** - Built-in security mechanisms  
