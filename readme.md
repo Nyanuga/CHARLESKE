@@ -23,9 +23,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/charleske1?tab=followers"><img title="1kFollowers" src="https://img.shields.io/github/followers/charleske?label=Followers&style=social"></a>
-  <a href="https://github.com/charleske/BMW-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/charleske/BMW-MD?&style=social"></a>
-  <a href="https://github.com/charleske/BMW-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/charleske/BMW-MD?style=social"></a>
+  <a href="https://github.com/charleske1?tab=followers"><img title="1000Followers" src="https://img.shields.io/github/followers/charleske?label=Followers&style=social"></a>
+  <a href="https://github.com/charleske/BMW-MD/stargazers/"><img title=500"Stars" src="https://img.shields.io/github/stars/charleske/BMW-MD?&style=social"></a>
+  <a href="https://github.com/charleske/BMW-MD/network/members"><img title="2000Forks" src="https://img.shields.io/github/forks/charleske/BMW-MD?style=social"></a>
   <a href="https://github.com/charleske/BMW-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/charleske/BMW-MD?label=Watching&style=social"></a>
 </p>
 
