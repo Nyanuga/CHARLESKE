@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://buymeacoffee.com/charlesodhu" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default.-png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default.yellowpng" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
   </a>
 </p>
 
@@ -23,10 +23,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/charleske1?tab=followers"><img title="1000Followers" src="https://img.shields.io/github/followers/charleske?label=Followers&style=social"></a>
-  <a href="https://github.com/charleske/BMW-MD/stargazers/"><img title=500"Stars" src="https://img.shields.io/github/stars/charleske/BMW-MD?&style=social"></a>
-  <a href="https://github.com/charleske/BMW-MD/network/members"><img title="2000Forks" src="https://img.shields.io/github/forks/charleske/BMW-MD?style=social"></a>
-  <a href="https://github.com/charleske/BMW-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/charleske/BMW-MD?label=Watching&style=social"></a>
+  <a href="https://github.com/charleskenya1?tab=followers"><img title="1000Followers" src="https://img.shields.io/github/followers/charleskenya1?label=Followers&style=social"></a>
+  <a href="https://github.com/charleskenya1/BMW-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/charleskenya1/BMW-MD?&style=social"></a>
+  <a href="https://github.com/charleske/BMW-MD/network/members"><img title="2000Forks" src="https://img.shields.io/github/forks/charleskenya1/BMW-MD?style=social"></a>
+  <a href="https://github.com/charleskenya1/BMW-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/charleskenya1/BMW-MD?label=Watching&style=social"></a>
 </p>
 
 ---
@@ -34,8 +34,8 @@
 ## 🚀 GET SESSION
 
 <p align="center">
-  <a href="https://charle-ke.onrender.com">
-    <img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-rainbow?style=for-the-badge&logo=bmw" width="220" height="38.45"/>
+  <a href="https://charles-ke.onrender.com">
+    <img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-neonred?style=for-the-badge&logo=bmw" width="220" height="38.45"/>
   </a>
 </p>
 
