@@ -25,7 +25,7 @@
 <p align="center">
   <a href="https://github.com/charleskenya1?tab=followers"><img title="1000Followers" src="https://img.shields.io/github/followers/charleskenya1?label=Followers&style=social"></a>
   <a href="https://github.com/charleskenya1/BMW-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/charleskenya1/BMW-MD?&style=social"></a>
-  <a href="https://github.com/charleske/BMW-MD/network/members"><img title="2000Forks" src="https://img.shields.io/github/forks/charleskenya1/BMW-MD?style=social"></a>
+  <a href="https://github.com/charleske/BMW-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/charleskenya1CHARLESKE/BMW-MD?style=social"></a>
   <a href="https://github.com/charleskenya1/BMW-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/charleskenya1/BMW-MD?label=Watching&style=social"></a>
 </p>
 
@@ -57,8 +57,8 @@
 - **Koyeb:**  
   [![Click Here](https://img.shields.io/badge/➤Click-Here-green.svg)](https://koyeb.com)
 
----**PANEL:**
-[Click here](https://host.talkdrove.com/auth/signup?ref=7D90F312)
+- **PANEL:**
+[Click here](https://img.io/badge/>https://host.talkdrove.com/auth/signup?ref=7D90F312)
 ## ⚡ CHARLESKE BOT INFO  
 🚗 **High Performance** - Optimized for speed and efficiency  
 🛡️ **Secure** - Built-in security mechanisms  
