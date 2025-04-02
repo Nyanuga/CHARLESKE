@@ -58,7 +58,7 @@
   [![Click Here](https://img.shields.io/badge/➤Click-Here-green.svg)](https://koyeb.com)
 
 - **PANEL:**
-[Click here](https://img.io/badge/>Click-Here-pink.svg)](https://host.talkdrove.com/auth/signup?ref=7D90F312)
+[Click here](https://img.shield.io/badge/➤Click-Here-pink.svg)](https://host.talkdrove.com/auth/signup?ref=7D90F312)
 ## ⚡ CHARLESKE BOT INFO  
 🚗 **High Performance** - Optimized for speed and efficiency  
 🛡️ **Secure** - Built-in security mechanisms  
