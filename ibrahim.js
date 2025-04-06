@@ -854,7 +854,7 @@ zk.ev.on('group-participants.update', async (group) => {
 ╰─────────────━┈⊷
 │💫 ᴘʀᴇғɪx: *[ ${prefixe} ]*
 │⭕ ᴍᴏᴅᴇ: *[${mode}]*
-│💢 *BOT NAME* *Obed*
+│💢 *BOT NAME* *CharlesKe*
 ╰─────────────━┈⊷
 
 *Join Whatsapp Channel For Updates*
